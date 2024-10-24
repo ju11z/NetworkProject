@@ -1,9 +1,0 @@
-[submodule "NetworkExtensions"]
-	path = NetworkExtensions
-	url = https://github.com/ju11z/NetworkExtensions
-[submodule "NetworkServer"]
-	path = NetworkServer
-	url = https://github.com/ju11z/NetworkServer
-[submodule "NetworkClient"]
-	path = NetworkClient
-	url = https://github.com/ju11z/NetworkClient
